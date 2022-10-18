@@ -7,6 +7,7 @@ List of recent papers in Out of distribution generalization
 [Causal Balancing for Domain Generalization - SCIS ICML Workshop 2022](https://openreview.net/pdf?id=imav8hheb2M) </br>
 [Learning Gradient-based Mixup towards Flatter Minima for Domain Generalization - Arxiv 2022](https://arxiv.org/pdf/2209.14742.pdf) </br>
 [Domain Generalization with Small Data - Under Review ICLR 2023](https://openreview.net/pdf?id=RKiWwhocuiU) </br>
+[CROSSMATCH: CROSS-CLASSIFIER CONSISTENCY REGULARIZATION FOR OPEN-SET SINGLE DOMAIN GENERALIZATION - ICLR 2022](https://openreview.net/pdf?id=48RBsJwGkJf) </br> 
 
 # Improving Robust Representations for Classification
 
