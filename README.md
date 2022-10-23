@@ -1,6 +1,7 @@
 List of recent papers in Out of distribution generalization
 
 # Domain Generalization
+[Failure Modes of Domain Generalization Algorithms](https://openaccess.thecvf.com/content/CVPR2022/papers/Galstyan_Failure_Modes_of_Domain_Generalization_Algorithms_CVPR_2022_paper.pdf) </br>
 [Probable Domain Generalization via Quantile Risk Minimization - NeurIPS 2022](https://arxiv.org/abs/2207.09944) </br>
 [Attention Diversification for Domain Generalization - ECCV 2022](https://arxiv.org/abs/2210.04206v1) </br>
 [Provable Domain Generalization via Invariant-Feature Subspace Recovery - ICML 2022](https://arxiv.org/abs/2201.12919) </br>
@@ -9,6 +10,7 @@ List of recent papers in Out of distribution generalization
 [Learning Gradient-based Mixup towards Flatter Minima for Domain Generalization - Arxiv 2022](https://arxiv.org/pdf/2209.14742.pdf) </br>
 [Domain Generalization with Small Data - Under Review ICLR 2023](https://openreview.net/pdf?id=RKiWwhocuiU) </br>
 [CROSSMATCH: CROSS-CLASSIFIER CONSISTENCY REGULARIZATION FOR OPEN-SET SINGLE DOMAIN GENERALIZATION - ICLR 2022](https://openreview.net/pdf?id=48RBsJwGkJf) </br> 
+
 
 # Improving Robust Representations for Classification
 
