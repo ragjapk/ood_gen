@@ -1,7 +1,7 @@
 List of recent papers in Out of distribution generalization
 
 # Domain Generalization
-[Failure Modes of Domain Generalization Algorithms](https://openaccess.thecvf.com/content/CVPR2022/papers/Galstyan_Failure_Modes_of_Domain_Generalization_Algorithms_CVPR_2022_paper.pdf) </br>
+[Failure Modes of Domain Generalization Algorithms - CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Galstyan_Failure_Modes_of_Domain_Generalization_Algorithms_CVPR_2022_paper.pdf) </br>
 [Probable Domain Generalization via Quantile Risk Minimization - NeurIPS 2022](https://arxiv.org/abs/2207.09944) </br>
 [Attention Diversification for Domain Generalization - ECCV 2022](https://arxiv.org/abs/2210.04206v1) </br>
 [Provable Domain Generalization via Invariant-Feature Subspace Recovery - ICML 2022](https://arxiv.org/abs/2201.12919) </br>
