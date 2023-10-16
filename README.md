@@ -3,6 +3,7 @@ List of recent papers in Out of distribution generalization
 # Domain Generalization
 
 [Test-Time Style Shifting: Handling Arbitrary Styles in Domain Generalization - ICML 2023](https://proceedings.mlr.press/v202/park23d/park23d.pdf)</br>
+[SIMPLE: SPECIALIZED MODEL-SAMPLE MATCHING FOR DOMAIN GENERALIZATION - ICLR 2023](https://openreview.net/pdf?id=BqrPeZ_e5P)</br>
 
 
 
